@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DexDictate</string>
+    <string name="brand_badge_label">DEXDICTATE</string>
+    <string name="dexter_heading">DEXTER IS HERE</string>
+    <string name="placeholder_badge_tag">TEMP</string>
+
+    <!-- Primary floating overlay controls (TalkBack labels only, never visible word labels inside icon buttons) -->
+    <string name="cd_dexter_collapsed">Open DexDictate assistant</string>
+    <string name="cd_dexter_expanded_logo">Dexter assistant badge</string>
+    <string name="cd_action_read_aloud">Read aloud</string>
+    <string name="cd_action_explain_message">Explain message</string>
+    <string name="cd_action_dictate_reply">Dictate reply</string>
+    <string name="cd_action_collapse_panel">Collapse DexDictate panel</string>
+    <string name="cd_action_hide_overlay">Hide floating assistant</string>
+    <string name="cd_action_restore_overlay">Show floating Dexter</string>
+    <string name="cd_action_send_message">Send message manually</string>
+
+    <!-- Navigation & modes -->
+    <string name="tab_demo_grindr">Demo 1: Yellow Chat</string>
+    <string name="tab_demo_sniffies">Demo 2: Navy Chat</string>
+    <string name="tab_system_hub">System &amp; Setup</string>
+    <string name="demo_fixture_banner">Fictional local test chat — not connected to any external service</string>
+
+    <!-- Accessibility service & foreground service notification -->
+    <string name="accessibility_service_label">DexDictate On-Demand Reader</string>
+    <string name="accessibility_service_description">Reads visible message text and inserts your reviewed reply only when you explicitly tap a DexDictate button. Never sends messages automatically or monitors continuously.</string>
+    <string name="overlay_notification_channel_name">Floating Dexter Overlay</string>
+    <string name="overlay_notification_channel_desc">Controls for the active DexDictate floating overlay.</string>
+    <string name="overlay_notification_title">DexDictate floating assistant active</string>
+    <string name="overlay_notification_body">Tap Dexter to read, explain, or dictate. No background recording is active.</string>
+    <string name="overlay_notification_action_hide">Hide Dexter</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "DexDictate",
+  "description": "Dyslexia-focused Android accessibility assistant with a floating Dexter helper to read, explain, dictate, and insert replies without leaving your chat app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
